@@ -9,7 +9,7 @@ To restrict this decline, what’s the first change that you would make to the a
 
 ## Overview
 
-This analysis aims to provide insights into the Zomato business problem and offer potential solutions to increase user engagement and adoption of the wallet feature. The analysis is based on assumptions and statistical hypotheses that were formulated after examining the data.
+This analysis aims to provide insights into the Zomato business problem and offer potential solutions to increase user engagement and adoption of the wallet feature. The analysis is founded upon conjectures and statistical postulations that were constructed through a systematic reassessment of the problem statement.
 
 ## Approach
 
